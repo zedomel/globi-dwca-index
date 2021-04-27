@@ -9,24 +9,36 @@ DATASET_DIR=./datasets
 
 preston ls --remote https://deeplinker.bio/$QUERY_HASH --log tsv --no-cache | grep 'application/dwca' | cut -f1 > $DWCA_URL_FILE
 
-elton init --data-url="http://example.com" --data-citation="Preston DwC-A Interactions" dwcainteractions2021
-jq '. + {format: "dwca"}' globi.json > tmp.$$.json && mv tmp.$$.json globi.json
+# get the provenance log
+preston cat hash://sha256/$QUERY_HASH --remote https://deeplinker.bio\
+| grep 'application/dwca'\
+| cut -d ' ' -f1,3\
+| sort | uniq > dwca.txt
 
-while read -r newUrl;
+preston cat hash://sha256/$QUERY_HASH --remote https://deeplinker.bio\
+| grep 'http://purl.org/pav/hasVersion'\
+| cut -d ' ' -f1,3\
+| sort | uniq > versions.txt
+
+# create a list of unique dwca versions, identified by their sha256 hashes
+join <(sort versions.txt) <(sort dwca.txt)\
+| grep -o -E "hash://sha256/[a-f0-9]{64}"\
+| sort | uniq > dwca-versions.txt
+
+while read -r dwcaHash;
 do
-        echo "$newUrl"
-        #OUTPUT_FILE=$DATASET_DIR/`hexdump -e '/1 "%02x"' -n16 < /dev/urandom`.zip
-        #newCitation=$(wget -q $line -O $OUTPUT_FILE && unzip -qq -p $OUTPUT_FILE | grep -oPm1 "(?<=<title>)[^<]+")
-        jq '. + {url: $newUrl, citation: $newCitation}' --arg newUrl "$newUrl" --arg newCitation "$newUrl" globi.json > tmp.$$.json && mv tmp.$$.json globi.json
-
-        # Remove local cache
-        rm -r datasets
+        preston cat "$dwcaHash" --remote https://deeplinker.bio > dwca.zip
+        
+        jq -n --arg format dwca --arg citation "$dwcaHash" '{"format":"dwca","citation":$citation,"url":"dwca.zip"}' > globi.json
 
         # Search for interactions
         elton interactions >> interactions.tsv
 
         # Save review summary
-        echo ">$newUrl" >> reviews.txt | elton review --type summary >> reviews.txt
+        elton review --type summary >> reviews.txt
+
+        # do cleanup here if needed
+        rm -r datasets globi.json dwca.zip
 
         break
 done < $DWCA_URL_FILE
