@@ -39,6 +39,4 @@ do
 
         # do cleanup here if needed
         rm -r datasets globi.json dwca.zip
-
-        break
 done < $DWCA_URL_FILE
