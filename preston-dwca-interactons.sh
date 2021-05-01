@@ -1,11 +1,10 @@
-#!/bin/sh
+#!/bin/bash
 #
 #
-
-DATASET_DIR=./datasets
 
 # Get last graph version
 QUERY_HASH=`preston history | grep 'hasVersion' | grep -oE "hash://sha256/[a-f0-9]{64}"`
+echo $QUERY_HASH
 
 # get the provenance log
 preston cat $QUERY_HASH --remote https://deeplinker.bio\
@@ -25,16 +24,18 @@ join <(sort versions.txt) <(sort dwca.txt)\
 
 while read -r dwcaHash;
 do
+        echo $dwcaHash
         preston cat "$dwcaHash" --remote https://deeplinker.bio > dwca.zip
 
         jq -n --arg format dwca --arg citation "$dwcaHash" '{"format":"dwca","citation":$citation,"url":"dwca.zip"}' > globi.json
 
         # Search for interactions
-        elton interactions >> interactions.tsv
+        elton interactions >> interactions.tsv 2> /dev/null
 
         # Save review summary
-        elton review --type summary >> reviews.txt
+        elton review --type summary >> reviews.txt 2> /dev/null
 
         # do cleanup here if needed
         rm -rf datasets globi.json dwca.zip
 done < dwca-versions.txt
+
