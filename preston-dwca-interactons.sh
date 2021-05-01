@@ -3,7 +3,9 @@
 #
 
 # Get last graph version
-QUERY_HASH=`preston history | grep 'hasVersion' | grep -oE "hash://sha256/[a-f0-9]{64}"`
+QUERY_HASH=`preston history --remote https://deeplinker.bio\
+| grep 'hasVersion'\
+| grep -oE "hash://sha256/[a-f0-9]{64}"`
 echo $QUERY_HASH
 
 # get the provenance log
