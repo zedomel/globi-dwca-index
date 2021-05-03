@@ -23,7 +23,7 @@ preston cat $QUERY_HASH --data-dir $CACHE_DIR/biodata --remote https://deeplinke
 | sort | uniq > $CACHE_DIR/versions.txt
 
 # create a list of unique dwca versions, identified by their sha256 hashes
-join <(sort versions.txt) <(sort dwca.txt)\
+join <(sort $CACHE_DIR/versions.txt) <(sort $CACHE_DIR/dwca.txt)\
 | grep -o -E "hash://sha256/[a-f0-9]{64}"\
 | sort | uniq > $CACHE_DIR/dwca-versions.txt
 
