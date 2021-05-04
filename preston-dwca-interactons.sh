@@ -27,9 +27,12 @@ join <(sort $CACHE_DIR/versions.txt) <(sort $CACHE_DIR/dwca.txt)\
 | grep -o -E "hash://sha256/[a-f0-9]{64}"\
 | sort | uniq > $CACHE_DIR/dwca-versions.txt
 
+touch $CACHE_DIR/dwca-current.txt
+diff --line-format=%L $CACHE_DIR/dwca-versions.txt $CACHE_DIR/dwca-current.txt > $CACHE_DIR/dwca-new-versions.txt
+
 while read -r dwcaHash;
 do
-        echo $dwcaHash
+        echo $dwcaHash >> $CACHE_DIR/dwca-current.txt
         preston cat "$dwcaHash" --data-dir $CACHE_DIR/biodata --remote https://deeplinker.bio > dwca.zip
 
         jq -n --arg format dwca --arg citation "$dwcaHash" '{"format":"dwca","citation":$citation,"url":"dwca.zip"}' > globi.json
@@ -42,5 +45,5 @@ do
 
         # do cleanup here if needed
         rm -rf datasets globi.json dwca.zip
-done < $CACHE_DIR/dwca-versions.txt
+done < $CACHE_DIR/dwca-new-versions.txt
 
