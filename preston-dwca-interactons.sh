@@ -38,10 +38,11 @@ do
         jq -n --arg format dwca --arg citation "$dwcaHash" '{"format":"dwca","citation":$citation,"url":"dwca.zip"}' > globi.json
 
         # Search for interactions
-        elton interactions >> $CACHE_DIR/interactions.tsv 2> /dev/null
+        elton interactions --skip-header >> $CACHE_DIR/interactions.tsv 2> /dev/null
 
         # Save review summary
-        elton review --type summary >> $CACHE_DIR/reviews.txt 2> /dev/null
+        elton review --skip-header --type note >> $CACHE_DIR/review_notes.txt 2> /dev/null
+        elton review --skip-header --type summary >> $CACHE_DIR/review_summary.txt 2> /dev/null
 
         # do cleanup here if needed
         rm -rf datasets globi.json dwca.zip
