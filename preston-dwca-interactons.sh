@@ -30,21 +30,22 @@ join <(sort $CACHE_DIR/versions.txt) <(sort $CACHE_DIR/dwca.txt)\
 touch $CACHE_DIR/dwca-current.txt
 diff --line-format=%L $CACHE_DIR/dwca-versions.txt $CACHE_DIR/dwca-current.txt > $CACHE_DIR/dwca-new-versions.txt
 
+COMMAND_FILE="commands.txt"
 while read -r dwcaHash;
 do
-        echo $dwcaHash >> $CACHE_DIR/dwca-current.txt
-        preston cat "$dwcaHash" --data-dir $CACHE_DIR/biodata --remote https://deeplinker.bio > dwca.zip
-
-        jq -n --arg format dwca --arg citation "$dwcaHash" '{"format":"dwca","citation":$citation,"url":"dwca.zip"}' > globi.json
-
-        # Search for interactions
-        elton interactions --skip-header >> $CACHE_DIR/interactions.tsv 2> /dev/null
-
-        # Save review summary
-        elton review --skip-header --type note >> $CACHE_DIR/review_notes.txt 2> /dev/null
-        elton review --skip-header --type summary >> $CACHE_DIR/review_summary.txt 2> /dev/null
-
-        # do cleanup here if needed
-        rm -rf datasets globi.json dwca.zip
+        work_dir=$CACHE_DIR/$(basename $dwcaHash)
+        echo  "mkdir -p $work_dir && \
+        echo $dwcaHash >> $CACHE_DIR/dwca-current.txt && \
+        cd $work_dir && \
+        preston cat "$dwcaHash" --data-dir $CACHE_DIR/biodata --remote https://deeplinker.bio > dwca.zip && \
+        jq -n --arg format dwca --arg citation "$dwcaHash" '{\"format\":\"dwca\",\"citation\":\$citation,\"url\":\"dwca.zip\"}' > globi.json && \
+        elton interactions --skip-header >> $work_dir/interactions.tsv 2> /dev/null && \
+        elton review --skip-header >> $work_dir/reviews.txt 2> /dev/null ; \
+        flock $CACHE_DIR/interactions.tsv -c \"cat $work_dir/interactions.tsv >> $CACHE_DIR/interactions.tsv\" ; \
+        flock $CACHE_DIR/reviews.txt -c \"cat $work_dir/reviews.txt >> $CACHE_DIR/reviews.txt\" ; \
+        rm -rf $work_dir" >> $CACHE_DIR/commands.txt
 done < $CACHE_DIR/dwca-new-versions.txt
 
+N_CORES=`nproc`
+# Execute tasks in parallel
+cat $CACHE_DIR/commands.txt | while read i; do printf "%q\n" "$i"; done | xargs --max-procs=$N_CORES -I CMD bash -c CMD
