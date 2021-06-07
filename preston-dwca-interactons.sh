@@ -38,7 +38,7 @@ do
         echo $dwcaHash >> $CACHE_DIR/dwca-current.txt && \
         cd $work_dir && \
         preston cat "$dwcaHash" --data-dir $CACHE_DIR/biodata --remote https://deeplinker.bio > dwca.zip && \
-        jq -n --arg format dwca --arg citation "$dwcaHash" '{\"format\":\"dwca\",\"citation\":\$citation,\"url\":\"dwca.zip\"}' > globi.json && \
+        jq -n --arg format dwca --arg citation "$dwcaHash via $QUERY_HASH" '{\"format\":\"dwca\",\"citation\":\$citation,\"url\":\"dwca.zip\"}' > globi.json && \
         elton interactions --skip-header >> $work_dir/interactions.tsv 2> /dev/null && \
         elton review --skip-header >> $work_dir/reviews.txt 2> /dev/null ; \
         flock $CACHE_DIR/interactions.tsv -c \"cat $work_dir/interactions.tsv >> $CACHE_DIR/interactions.tsv\" ; \
