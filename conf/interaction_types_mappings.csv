@@ -1,0 +1,22 @@
+provided_interaction_type_label,provided_interaction_type_id,mapped_to_interaction_type_label,mapped_to_interaction_type_id
+substrate,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+ObservedSpecies,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+Hospedero,,has host,http://purl.obolibrary.org/obo/RO_0002454
+Huesped,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+Associated Plant,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+interacting taxon,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+Parásito,,parasitized by,http://purl.obolibrary.org/obo/RO_0002445
+Visits flowers of,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
+CollectedWith,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+Mutualismo,,is mutualism,http://purl.obolibrary.org/obo/RO_0002467
+Vicinity,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+Associated Insect,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+same sheet,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+on same slide,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+growing with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+Host of,,host of,http://purl.obolibrary.org/obo/RO_0002453
+nest,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+Associated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+Presa,,preys on,http://purl.obolibrary.org/obo/RO_0002439
+Associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+Plant Community,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506

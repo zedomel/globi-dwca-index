@@ -6,9 +6,11 @@ CACHE_DIR=${1:-"./"}
 echo "Output to ${CACHE_DIR}"
 
 # Get last graph version
-QUERY_HASH=`preston history --data-dir $CACHE_DIR/biodata --remote https://deeplinker.bio\
-| grep 'hasVersion'\
-| grep -oE "hash://sha256/[a-f0-9]{64}"`
+QUERY_HASH=`preston history -l tsv --data-dir $CACHE_DIR/biodata --remote https://deeplinker.bio\
+| tr '\t' '\n'\
+| grep sha\
+| tail -n2\
+| head -n1`
 echo $QUERY_HASH
 
 # get the provenance log
@@ -35,6 +37,7 @@ while read -r dwcaHash;
 do
         work_dir=$CACHE_DIR/$(basename $dwcaHash)
         echo  "mkdir -p $work_dir && \
+        cp conf/interaction_types_*.csv $work_dir && \
         echo $dwcaHash >> $CACHE_DIR/dwca-current.txt && \
         cd $work_dir && \
         preston cat "$dwcaHash" --data-dir $CACHE_DIR/biodata --remote https://deeplinker.bio > dwca.zip && \
