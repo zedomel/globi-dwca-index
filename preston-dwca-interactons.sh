@@ -2,6 +2,7 @@
 #
 #
 
+CURRENT_DIR=`pwd`
 CACHE_DIR=${1:-"./"}
 echo "Output to ${CACHE_DIR}"
 
@@ -37,7 +38,7 @@ while read -r dwcaHash;
 do
         work_dir=$CACHE_DIR/$(basename $dwcaHash)
         echo  "mkdir -p $work_dir && \
-        cp conf/interaction_types_*.csv $work_dir && \
+        cp $CURRENT_DIR/conf/interaction_types_*.csv $work_dir && \
         echo $dwcaHash >> $CACHE_DIR/dwca-current.txt && \
         cd $work_dir && \
         preston cat "$dwcaHash" --data-dir $CACHE_DIR/biodata --remote https://deeplinker.bio > dwca.zip && \
