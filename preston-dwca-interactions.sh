@@ -57,9 +57,12 @@ touch $CACHE_DIR/dwca-current.txt
 diff --line-format=%L $CACHE_DIR/dwca-versions.txt $CACHE_DIR/dwca-current.txt > $CACHE_DIR/dwca-new-versions.txt
 
 COMMAND_FILE="commands.txt"
+ELTON_CACHE_DIR="$CACHE_DIR/datasets"
+
 while read -r dwcaHash;
 do
         work_dir=$CACHE_DIR/$(basename $dwcaHash)
+	namespace=$(basename $dwcaHash)
 	command="export JAVA_OPTS=$JAVA_OPTS && \
                 mkdir -p $work_dir && \
                 cp $CURRENT_DIR/conf/interaction_types_*.csv $work_dir && \
@@ -67,14 +70,10 @@ do
                 cd $work_dir && \
                 preston cat \"$dwcaHash\" --data-dir $CACHE_DIR/biodata $REMOTE > dwca.zip && \
                 jq -n --arg format dwca --arg citation \"$dwcaHash via $QUERY_HASH\" '{\"format\":\"dwca\",\"citation\":\"$citation\",\"url\":\"dwca.zip\"}' > globi.json && \
-                elton interactions --skip-header > $work_dir/interactions.tsv 2> /dev/null ; \
-                elton review --skip-header > $work_dir/reviews.txt 2> /dev/null ; \
-                rm -f $work_dir/dwca.zip $work_dir/interaction_types_*.csv $work_dir/globi.json"
+		elton update -c $ELTON_CACHE_DIR --registry local $namespace ;"
         echo $command >> $CACHE_DIR/commands.txt
 done < $CACHE_DIR/dwca-new-versions.txt
 
 N_CORES=`nproc`
 # Execute tasks in parallel
 cat $CACHE_DIR/commands.txt | while read i; do printf "%q\n" "$i"; done | xargs --max-procs=$N_CORES -I CMD bash -c CMD
-find $CACHE_DIR -mindepth 2 -name "interactions.tsv" | xargs cat > $CACHE_DIR/interactions.tsv
-find $CACHE_DIR -mindepth 2 -name "reviews.txt" | xargs cat > $CACHE_DIR/reviews.txt
