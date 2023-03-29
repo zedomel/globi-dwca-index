@@ -4,7 +4,7 @@
 #
 
 function get_mapping {
-  curl -L "https://docs.google.com/spreadsheets/u/0/d/1gNVEiN5GJxrei6QwgqC_sbvKzaJrktm_Pv1Psqx2GtI/export?format=csv"
+  curl -L "https://docs.google.com/spreadsheets/u/0/d/1gNVEiN5GJxrei6QwgqC_sbvKzaJrktm_Pv1Psqx2GtI/export?format=csv" | tee unsupported_interaction_types.csv
 }
 
 
