@@ -13,7 +13,7 @@ print_usage() {
 while getopts c:r flag; do
         case ${flag} in
                 c) CACHE_DIR="$OPTARG" ;;
-                r) REMOTE="--remote https://deeplinker.bio" ;;
+                r) REMOTE="--remote https://linker.bio" ;;
                 ?) print_usage
                    exit 1 ;;
         esac
@@ -33,7 +33,6 @@ fi
 QUERY_HASH=`preston history -l tsv --data-dir $CACHE_DIR/biodata $REMOTE\
 | tr '\t' '\n'\
 | grep sha\
-| tail -n2\
 | head -n1`
 echo $QUERY_HASH
 
@@ -63,7 +62,7 @@ while read -r dwcaHash;
 do
         work_dir=$CACHE_DIR/$(basename $dwcaHash)
 	namespace=$(basename $dwcaHash)
-	command="export JAVA_OPTS=$JAVA_OPTS && \
+	command="export JAVA_OPTS=\"-Djava.io.tmpdir=$CURRENT_DIR/tmp\" && \
                 mkdir -p $work_dir && \
                 cp $CURRENT_DIR/conf/interaction_types_*.csv $work_dir && \
                 echo $dwcaHash >> $CACHE_DIR/dwca-current.txt && \
