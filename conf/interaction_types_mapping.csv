@@ -1,80 +1,61 @@
 provided_interaction_type_label,provided_interaction_type_id,mapped_to_interaction_type_label,mapped_to_interaction_type_id
-1925. flowers visited,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
-aassociated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-accociated species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-accociated taxa,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-accoc. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-accompanying plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-accosiated sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-accosiated vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-alimentación en,,eats,http://purl.obolibrary.org/obo/RO_0002470
-alimentación y percha en,,eats,http://purl.obolibrary.org/obo/RO_0002470
-aliméntandose de,,eats,http://purl.obolibrary.org/obo/RO_0002470
-alimentandose en,,eats,http://purl.obolibrary.org/obo/RO_0002470
-also collected here,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-also collected nearby,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-also collected or seen nearby,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-also flowering,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-also here,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-also in area,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-also present at site,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-also seen or collected here,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-also seen or collected nearby,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-aociado con,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-aqssociated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+accoc. spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+adjacent species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ascociada,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asoc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asocc,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asociación,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asociaco,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asociada,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asociada a,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asociada a spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asociada con,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asociadas,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asociado a,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asociado,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asociados,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asociadp con,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asociated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asociado a,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asociated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asociate include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asociates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asociates include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asociating species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asociation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asocidas,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asoc. sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asoc. sp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asoc. sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asooc. genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asoociates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asooc. plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asooc. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asosiación de,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assciated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asos.spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+aspect 180,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assc. genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assciated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assciations,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-ass. cirsieto-molinietum accomp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assco,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asscociates include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asscociate trees,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assco,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assco. genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asscoiated,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asscoiated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asscoiated spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assc plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assc. plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asscoiated genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asscoiated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assc pl,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assc. pl,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assc. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assc. plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assc sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assc. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assication,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assiciates include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assic species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assicuated plants included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ass. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assocaited dominant,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assiociates include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoacited plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc..,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocaited,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assocaited genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocaited herbs,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assocaited plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocaited plants included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assocaited species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assocaited sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocaited species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assocaited spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocaited spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocaited taxa,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assocaited taxa include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocaited with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocaites,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocaite species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
@@ -83,6 +64,7 @@ assocaition,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_00085
 assocaitions,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. apecies,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. app,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assocated genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocated spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
@@ -94,25 +76,15 @@ assocation with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0
 assocciates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocciates include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc'd genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. dominants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-. assoc,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-. assoc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc..,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc. gener,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc.genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. gener,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. gerera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc grasses,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. grasses,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. herbaceous species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc herbaceous spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. herbaceous spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc herbaceous spp inlcude,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. herbaceous spp. inlcude,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. herbs,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associ,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associ.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associaates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associaation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associada,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
@@ -120,96 +92,67 @@ associado,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associaites include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associaition,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associaiton,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associaltes include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associasted species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associatas,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associatd plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associatd species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated accacias,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated annuals,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated biota,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated canopy vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated conifers,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated conifers include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated dominant,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated dominants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated dominant shrubs included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated dominats,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated donimants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated dormants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associate,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated euc. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated floa include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated accacias,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated biota,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated conifers,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated cont,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated flora,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated genera and species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated genera include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated ground cover,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated herbaceous species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated herbs,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated in area,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated in creek are,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated in order of abundance,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated insect,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated lianes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated lichens,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associate dominant species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated orchids include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated organism,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated palnts,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated pct,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated panicum species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated perennials,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated plantas,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated plant,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated plants are,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-. associated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated plants are,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated plants incluced,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated plants included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated plants included the algae,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated plants included the dominant shrubs,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated plants included the weeds,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated plants include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated plants in order of abundance,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated plant species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated plants included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated plant spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated plants with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated platns,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated plats,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated secies include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated sedges include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated shrub,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated shrubs,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated speceis,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associateds include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated speces,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated specie,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated specied,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated specieds,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated specie,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated species are as follows,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated species are,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated species as follows,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated species at this site,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated species collected here,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-. associated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated species?,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated species},,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated species are,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated speciese,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated species/genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-. associated species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-... associated species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated species (in order of abundance),,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated species of wash,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated speciess,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated species written as shown on actual label- several of the names are incorrect/incomplete- accurate names are likely,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated specifies,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated speciest,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated specimens,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated specis,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated speckes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated speices,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated speies,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated spesies,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated sppecies,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated sppecies,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated spp include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated ssp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
@@ -217,31 +160,23 @@ associated ssp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0
 associated taca,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated taxa,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated taxa include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated taxon,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated threatened species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated to,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated tree,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated trees,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated tree species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated txa,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated vascular plant species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated vegation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated veg,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated veg.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associated vegation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated vegetaiton,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-?. associated vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated  vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated. vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated weed species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated w/ elements of tropical caducifolioius forest,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated wetland plants include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated  with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated with species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associated with weedy plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associated woody plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associate,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associatees include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate grasses,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
@@ -250,92 +185,114 @@ associate include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO
 associate of,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate plant,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associates by rank,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associates collected here,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associates/ cover,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-. associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates (cont),,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates (cont.),,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates divers,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates here,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates inclclude,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associates included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates includes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates inclued,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates inculde,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates influde,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates inlcude,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates of,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates plants include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associate spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associatess,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associates species as follows,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associates species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associates species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate ssp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate ssp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates. sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associates were,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-{associates with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associates with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate taxa,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate trees,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate veg,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associate vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associate with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associatged vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associatie,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associatied with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associatio,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 association,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+association general,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+association includes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+association plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associations,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associations include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 association species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+association spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associations végétales,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+association végétale,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+association vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+association with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associaton,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associats,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associatse,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associeated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associ,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associ.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associes.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associes include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associeted species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associ. genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc.include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc. included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associqated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associqatess,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associ. spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associtaes incl.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associtaes include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associtaion,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associtated dominants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associtated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associtated spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associtates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associtations,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+associted plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associted species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 associted spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-associted taxa,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocites include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocition,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoclates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. lichens,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocl. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocl spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc. oaks,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc.. oaks,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocoiates include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso.cp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc. pl.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc plant,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. plant,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. plants include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. plants/veg. type,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. pl.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. pls/notes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc. plant species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocs,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocs.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. soecies,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc. sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc. sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc.sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc.sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc spec,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. spec,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. spec.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. species are,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-. assoc. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc. speceis,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. species.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
@@ -344,45 +301,32 @@ assoc species include,,ecologically co-occurs with,http://purl.obolibrary.org/ob
 assoc. species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. speciesinclude,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc.species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-. assoc. sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc.sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc.sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. speices,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. sp. inc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. sp. included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc sp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. sp include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. sp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. sp. on face,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-. assoc. spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc.spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc.spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. spp. inc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. spp. incl,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. spp. incl.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc spp include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. spp include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. spp. inlcude,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. spp. inlude,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. spp. on verticle rock face,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. sps,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc ssp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. ssp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. ssp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. ssp. incl.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc taxa,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc.  taxa,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. taxa,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc trees,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. trees,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. type,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc veg,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. veg,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. veg.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
@@ -395,13 +339,12 @@ assoc. vegn,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_00085
 assoc. vegn.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc.vegn,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. w/,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-assoc. with dominants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc. weedy spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoc. with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoc. with sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assocxiated with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assodciated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asso,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asso.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assofciated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asso. genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoiation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
@@ -411,308 +354,225 @@ assoicated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO
 assoicated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoicates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoication,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoiciated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoiciated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoiciation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoictaed species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoictes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assonc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso.plant,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso. plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso.plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assosciated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assosiated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asso. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-asso. sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assosiates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assosicated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso. sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008507
 asso. sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asso.sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso.sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assosp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assos. plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso. spo.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asso. spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asso.spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso.spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assos.pp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assospp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asso. ssp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assos. sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assos. sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assos.sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assos. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 assoxiated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assoz,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assp. sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asssoc,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asssoc. genera,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asssociated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asssociates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asssociation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+asssoc. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 asssoc. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-ass. spec.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-ass. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+assso.spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ass sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ass. sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ass. sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+ass.sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+ass. spec.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+ass. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+ass spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ass. spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ass. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-ass. spp. inc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-ass spp include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ass spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ass. spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-ass. spp. incude,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+ass ssp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ass. ssp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-(ate),,eats,http://purl.obolibrary.org/obo/RO_0002470
-attached to,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-collectedwith,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common asscociates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common assoc,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+ass. ssp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+ass. vég.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+ass.vég.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+at flowers of,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
+avian predators,,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458
+cohabitants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 common assoc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 common. assoc,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common associated include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common. associated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common associated plants included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common associated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common. associated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common associated species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common associated speices include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common associated spescies include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common associated spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common associated spp include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common. associated with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common. associate,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common.  associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common. associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common associates include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common assoc. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common assoc. species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common assoc. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common. assoc. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common assoc spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common assoc. spp include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common assoc. spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common assoc. spp. inlcude,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common assoicates include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common speces include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common species are,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common species in the area include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common species throughout the canyon include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-common spp. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-companian plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-companion plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-companion sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-compartment 98. found in association with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-consume flor de,,eats,http://purl.obolibrary.org/obo/RO_0002470
-consume fruto de,,eats,http://purl.obolibrary.org/obo/RO_0002470
-consume néctar de,,acquires nutrients from,http://purl.obolibrary.org/obo/RO_0002457
-consume néctar y polen de,,acquires nutrients from,http://purl.obolibrary.org/obo/RO_0002457
-consume polen de,,acquires nutrients from,http://purl.obolibrary.org/obo/RO_0002457
-consume semillas de,,acquires nutrients from,http://purl.obolibrary.org/obo/RO_0002457
-consume su flor,,eats,http://purl.obolibrary.org/obo/RO_0002470
-consume su fruto,,eats,http://purl.obolibrary.org/obo/RO_0002470
-consumidor de fruto,,eats,http://purl.obolibrary.org/obo/RO_0002470
-depredador,,preys on,http://purl.obolibrary.org/obo/RO_0002439
-direct associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-(eaten by),,is eaten by,http://purl.obolibrary.org/obo/RO_0002471
+common plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+common shrubs,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+companion species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+co-occurring,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 ecologicallyoccurswith,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-ecology. host plants,,has host,http://purl.obolibrary.org/obo/RO_0002454
 ectoparasite,,ectoparasite of,http://purl.obolibrary.org/obo/RO_0002632
-ectoparasite of,,ectoparasite of,http://purl.obolibrary.org/obo/RO_0002632
-ectoparasito de,,ectoparasite of,http://purl.obolibrary.org/obo/RO_0002632
-ectoparásito de,,ectoparasite of,http://purl.obolibrary.org/obo/RO_0002632
 ectoparásito,,ectoparasite of,http://purl.obolibrary.org/obo/RO_0002632
 ectoparásitos,,ectoparasite of,http://purl.obolibrary.org/obo/RO_0002632
-epibionte,,has host,http://purl.obolibrary.org/obo/RO_0002454
+endoparasite of,,endoparasite of,http://purl.obolibrary.org/obo/RO_0002632
+entomopatógeno,,pathogen of,http://purl.obolibrary.org/obo/RO_0002556
 epibiont,,has host,http://purl.obolibrary.org/obo/RO_0002454
+epibionte,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
+epibiont of,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
+epibiont on,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
 epífita de,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
 epifita en,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
-epífita,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
-epiparásito,,hyperparasite of,http://purl.obolibrary.org/obo/RO_0002553
+epifitica en,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
+epiobiont on,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
+epiparásito,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+epiphylle,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
+epiphyte,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
 epiphyte on,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
 epiphytes,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
+epiphytes (major),,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
+epiphytic,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
 epiphytic on,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
 epipihyte on,,epiphyte of,http://purl.obolibrary.org/obo/RO_0008501
-especies acompañantes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+espèces vasculaires dominantes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 especies asociadas,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 especies asociadsa,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-especies características,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-especies co-habitantes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-flor visitada,,visits flower of,http://purl.obolibrary.org/obo/RO_0002622
+fauna associated with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+feeds on,,eats,http://purl.obolibrary.org/obo/RO_0002470
+fitófago,,eats,http://purl.obolibrary.org/obo/RO_0002470
+floral host,,host of,http://purl.obolibrary.org/obo/RO_0002453
+flor visitada,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
+forófito,,has epiphyte,http://purl.obolibrary.org/obo/RO_0008502
+forófito de,,has epiphyte,http://purl.obolibrary.org/obo/RO_0008502
+forótifo,,has epiphyte,http://purl.obolibrary.org/obo/RO_0008502
 found in association with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-found with host species,,has host,http://purl.obolibrary.org/obo/RO_0002454
-fruto consumido,,eats,http://purl.obolibrary.org/obo/RO_0002470
 fruto visitado,,visits,http://purl.obolibrary.org/obo/RO_0002618
-growing with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-growingwith,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat an assoc. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat and assoc sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat and assoc. sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat and assoc. sp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat and assoc spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat and assoc. spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat and assoc. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat/associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat & assoc. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat & assoc sp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat & assoc. spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat & asso. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-habitat & ass. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+haseaten,,eats,http://purl.obolibrary.org/obo/RO_0002470
 has host,,has host,http://purl.obolibrary.org/obo/RO_0002454
-hashost,,has host,http://purl.obolibrary.org/obo/RO_0002454
 has hsot,,has host,http://purl.obolibrary.org/obo/RO_0002454
 has parasite,,parasitized by,http://purl.obolibrary.org/obo/RO_0002445
-hemiparásito,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
-hiperparásito,,hyperparasite of,http://purl.obolibrary.org/obo/RO_0002553
+hemiparásito,,hemiparasite of,http://purl.obolibrary.org/obo/RO_0002237
+hindgut host,,host of,http://purl.obolibrary.org/obo/RO_0002453
 hospedador de,,host of,http://purl.obolibrary.org/obo/RO_0002453
-hospedante,,has host,http://purl.obolibrary.org/obo/RO_0002454
+hospedante,,host of,http://purl.obolibrary.org/obo/RO_0002453
 hospededero,,host of,http://purl.obolibrary.org/obo/RO_0002453
-hospedeiro de,,has host,http://purl.obolibrary.org/obo/RO_0002454
-hospedeiro,,has host,http://purl.obolibrary.org/obo/RO_0002454
-hospedero,,has host,http://purl.obolibrary.org/obo/RO_0002454
+hospedeiro,,host of,http://purl.obolibrary.org/obo/RO_0002453
+hospedero,,host of,http://purl.obolibrary.org/obo/RO_0002453
 hospederos,,has host,http://purl.obolibrary.org/obo/RO_0002454
-hosped,,has host,http://purl.obolibrary.org/obo/RO_0002454
-hosperdo por infección experimental,,has host,http://purl.obolibrary.org/obo/RO_0002454
-hospes,,has host,http://purl.obolibrary.org/obo/RO_0002454
-hosp,,has host,http://purl.obolibrary.org/obo/RO_0002454
+host,,host of,http://purl.obolibrary.org/obo/RO_0002453
 host/assoc,,has host,http://purl.obolibrary.org/obo/RO_0002454
 host code,,has host,http://purl.obolibrary.org/obo/RO_0002454
+host_commonname,,has host,http://purl.obolibrary.org/obo/RO_0002454
 host could be,,has host,http://purl.obolibrary.org/obo/RO_0002454
-host for,,host of,http://purl.obolibrary.org/obo/RO_0002453
-“host”,,has host,http://purl.obolibrary.org/obo/RO_0002454
-host,,has host,http://purl.obolibrary.org/obo/RO_0002454
-host?,,has host,http://purl.obolibrary.org/obo/RO_0002454
-(host of),,host of,http://purl.obolibrary.org/obo/RO_0002453
-host of,,host of,http://purl.obolibrary.org/obo/RO_0002453
-hostof,,host of,http://purl.obolibrary.org/obo/RO_0002453
-host plant,,host of,http://purl.obolibrary.org/obo/RO_0002453
-hostplant,,host of,http://purl.obolibrary.org/obo/RO_0002453
-host plants,,host of,http://purl.obolibrary.org/obo/RO_0002453
-hosts,,has host,http://purl.obolibrary.org/obo/RO_0002454
-hosts include,,host of,http://purl.obolibrary.org/obo/RO_0002453
+host det,,host of,http://purl.obolibrary.org/obo/RO_0002454
+host for,,host of,http://purl.obolibrary.org/obo/RO_0002454
+host gall,,has host,http://purl.obolibrary.org/obo/RO_0002454
+host genus,,has host,http://purl.obolibrary.org/obo/RO_0002454
+host label,,has host,http://purl.obolibrary.org/obo/RO_0002454
+host no.,,host of,http://purl.obolibrary.org/obo/RO_0002454
+hostplant,,has host,http://purl.obolibrary.org/obo/RO_0002454
+host plants,,has host,http://purl.obolibrary.org/obo/RO_0002454
+hosts include,,has host,http://purl.obolibrary.org/obo/RO_0002454
 host species,,has host,http://purl.obolibrary.org/obo/RO_0002454
-hostspecies,,host of,http://purl.obolibrary.org/obo/RO_0002453
-host/substrate,,host of,http://purl.obolibrary.org/obo/RO_0002453
-huésped de,,host of,http://purl.obolibrary.org/obo/RO_0002453
+hostspecies,,has host,http://purl.obolibrary.org/obo/RO_0002454
+host tree,,has host,http://purl.obolibrary.org/obo/RO_0002454
 huesped,,host of,http://purl.obolibrary.org/obo/RO_0002453
 huésped,,host of,http://purl.obolibrary.org/obo/RO_0002453
-hyperparasitoid of,,parasitoid of,http://purl.obolibrary.org/obo/RO_0002208
-in assoc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-in associatione,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-in association with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-in assoc. with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+húesped,,host of,http://purl.obolibrary.org/obo/RO_0002453
+huésped de,,host of,http://purl.obolibrary.org/obo/RO_0002453
 infectedby,,parasitized by,http://purl.obolibrary.org/obo/RO_0002445
-interacción con,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-interacting taxon,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-interacts with,,interacts with,http://purl.obolibrary.org/obo/RO_0002434
-interactswith,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-in vicinity,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+infects,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+insecthost,,has host,http://purl.obolibrary.org/obo/RO_0002454
+interacts with,,participates in a biotic-biotic interaction with,http://purl.obolibrary.org/obo/RO_0002574
+interactúa con,,participates in a biotic-biotic interaction with,http://purl.obolibrary.org/obo/RO_0002574
+is ectoparasite of,,ectoparasite of,http://purl.obolibrary.org/obo/RO_0002632
+is pathogen in,,pathogen of,http://purl.obolibrary.org/obo/RO_0002556
 mutualismo,,mutualistically interacts with,http://purl.obolibrary.org/obo/RO_0002442
-nearby associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-nearby plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-nearby plants in area disturbed by trail,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-nearby plants were,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-nearby species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-nearby species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-nearby speciesinclude,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-nest,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-nestling,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-nests in,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+nectaring on,,visits,http://purl.obolibrary.org/obo/RO_0002618
+nectar plant,,visits,http://purl.obolibrary.org/obo/RO_0002618
+nectering on,,visits,http://purl.obolibrary.org/obo/RO_0002618
 nodricismo,,creates habitat for,http://purl.obolibrary.org/obo/RO_0008505
 nodriza,,creates habitat for,http://purl.obolibrary.org/obo/RO_0008505
-observedspecies,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-occurring with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-ocurring with,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-on same slide,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other associated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+on flowera of,,visits flower of,http://purl.obolibrary.org/obo/RO_0002622
+on flowers,,visits,http://purl.obolibrary.org/obo/RO_0002618
+on flowers of,,visits flower of,http://purl.obolibrary.org/obo/RO_0002622
+original host,,has host,http://purl.obolibrary.org/obo/RO_0002454
 other associated plants include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other associated species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other associated spp.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other associated vascular plants include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other common trees,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other companion plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other plants collected at this location include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other plants collected at this site include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other plants collected here,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other plants collected here include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other plants collected here on this date include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other plants collected in this habitat include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other plants include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other plants in flower included,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other plants of the area include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other salix spp. nearby. also low annuals,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other sedges and rushes collected here include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other sedges collected at this location include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other sedges collected at this site include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other sedges collected here include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other sedges collected here on this date include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other sedges collected in this habitat include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other sedge species collected here include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other sedges seen in this habitat include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other sedges seen or collected here include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other shrubs in vicinity,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other shrubs with this species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other species collected at this location include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other species collected at this site include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+other assoc. include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+other assoc. species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+other common species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+other plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 other species collected here include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other species collected here on this date include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other species collected in this habitat include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other species lcoally includes,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other species present,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other species seen or collected here include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other veg doms incl,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other vegetation,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other weeds,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other weed species common here,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other willow species seen here include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-other woody species present,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 parasitado por,,parasitized by,http://purl.obolibrary.org/obo/RO_0002445
-(parasite of),,parasite of,http://purl.obolibrary.org/obo/RO_0002444
-parasite of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
 parasite,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
-parasites,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
-parasitically found on/in,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+parasite ex,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+parasite. host,,has host,http://purl.obolibrary.org/obo/RO_0002454
+parasites,,parasitized by,http://purl.obolibrary.org/obo/RO_0002445
 parasitic on,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
-parasitized by,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
-parásito de,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
-parasitoide de,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
-parasitoide,,parasitoide of,http://purl.obolibrary.org/obo/RO_0002208
-parasitoid of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+parasitized by,,parasitized by,http://purl.obolibrary.org/obo/RO_0002445
 parasito,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
 parásito,,parasitized by,http://purl.obolibrary.org/obo/RO_0002445
+párasito,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+parásito de,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+parasitoid,,parasitoid of,http://purl.obolibrary.org/obo/RO_0002208
+parasitoide,,parasitoid of,http://purl.obolibrary.org/obo/RO_0002208
+parasitoide de,,parasitoid of,http://purl.obolibrary.org/obo/RO_0002208
+parasitoid of,,parasitoid of,http://purl.obolibrary.org/obo/RO_0002208
+parastized by,,parasitized by,http://purl.obolibrary.org/obo/RO_0002445
 pathogen,,pathogen of,http://purl.obolibrary.org/obo/RO_0002556
+patógeno,,pathogen of,http://purl.obolibrary.org/obo/RO_0002556
 patógeno de,,pathogen of,http://purl.obolibrary.org/obo/RO_0002556
 plant assoc,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 plant assoc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-plant associates are,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-plant associates,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-plant associates include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-plant association,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-plant associations,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-plant community,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-plants associated include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-plants include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-plant species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-polinizador de,,pollinated by,http://purl.obolibrary.org/obo/RO_0002456
-polinizador,,pollinated by,http://purl.obolibrary.org/obo/RO_0002456
-pollinating,,pollinates,http://purl.obolibrary.org/obo/RO_0002455
-posando en,,visits,http://purl.obolibrary.org/obo/RO_0002618
-posandose en,,visits,http://purl.obolibrary.org/obo/RO_0002618
-possible hosts,,has host,http://purl.obolibrary.org/obo/RO_0002454
+plant host,,has host,http://purl.obolibrary.org/obo/RO_0002454
+plants assoc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+plants nearby,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+plnat assoc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+polinizador,,polinates,http://purl.obolibrary.org/obo/RO_0002455
+polinizador de,,pollinates,http://purl.obolibrary.org/obo/RO_0002455
+polinizador de flores de,,pollinates,http://purl.obolibrary.org/obo/RO_0002455
+possible host,,has host,http://purl.obolibrary.org/obo/RO_0002454
+potential host,,host of,http://purl.obolibrary.org/obo/RO_0002453
+predador,,preys on,http://purl.obolibrary.org/obo/RO_0002439
+predator,,preys on,http://purl.obolibrary.org/obo/RO_0002439
 predator of,,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458
-predator,,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458
+predator on,,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458
 predators,,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458
+predatory on,,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458
 presa de,,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458
-presa,,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458
 prey of,,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458
-prey,,preys on,http://purl.obolibrary.org/obo/RO_0002439
-rizófago,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-same sheet,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-semiparásito,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+principal associated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+principal associate species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+principal associates plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+principle associated plants,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+rizófago,,eats,http://purl.obolibrary.org/obo/RO_0002470
+simbiont,,symbiotically interacts with,http://purl.obolibrary.org/obo/RO_0002440
 simbionte,,symbiotically interacts with,http://purl.obolibrary.org/obo/RO_0002440
-species nearby,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-ssociated species,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
-substrate,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-symbiont of,,symbiotically interacts with,http://purl.obolibrary.org/obo/RO_0002440
+species in area,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+species include,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+species on plot,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+species present,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+spp. ass.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+spp. assoc.,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+ssoc. spp,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
 symbiont,,symbiotically interacts with,http://purl.obolibrary.org/obo/RO_0002440
-vicinity,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+symbiont of,,symbiotically interacts with,http://purl.obolibrary.org/obo/RO_0002440
 visitador,,visits,http://purl.obolibrary.org/obo/RO_0002618
-visitado,,visited by,http://purl.obolibrary.org/obo/RO_0002619
-visitante de flor,,visits flower of,http://purl.obolibrary.org/obo/RO_0002622
-visitante de fruto,,is eaten by,http://purl.obolibrary.org/obo/RO_0002471
-visitante floral de,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
+visitante de flor,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
 visitante floral,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
+visitante floral de,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
 visited flower of,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
-visiting flower of,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
-visiting,,visits,http://purl.obolibrary.org/obo/RO_0002618
-visitng,,visits,http://purl.obolibrary.org/obo/RO_0002618
 visits flowers of,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
-visitsflowersof,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
-visting flower,,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
+xanthorrhoea johnsonii. understorey/groundcover,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506

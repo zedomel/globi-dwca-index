@@ -8,7 +8,7 @@ To help make it easier to search across records using different term with simila
 For convenience, some of these interaction type mappings are currently managed at:
 
 
-https://docs.google.com/spreadsheets/d/1AxCSJYA5dGSDZKDR-GLRglL-xQQP_Se54J2vpjHGgkQ/edit#gid=731030606
+https://docs.google.com/spreadsheets/d/1bqkrhuj6sw2rrHNa3xAKYqhcofrFVh15-fTP3bprIPI/
 
 # Updating Interaction Mappings
 

@@ -4,7 +4,7 @@
 #
 
 function get_mapping {
-  curl -L "https://docs.google.com/spreadsheets/u/0/d/1gNVEiN5GJxrei6QwgqC_sbvKzaJrktm_Pv1Psqx2GtI/export?format=csv" | tee unsupported_interaction_types.csv
+  curl -L "https://docs.google.com/spreadsheets/u/0/d/1bqkrhuj6sw2rrHNa3xAKYqhcofrFVh15-fTP3bprIPI/export?format=csv" | tee unsupported_interaction_types.csv
 }
 
 
@@ -16,8 +16,7 @@ get_mapping\
  | grep "purl"\
  | cut -d ',' -f1-4\
  | awk -F, '{print tolower($1)","$2","$3","$4}'\
- | sort -k 1 -t,\
- | uniq\
+ | sort -k1,1 -t, -u\
  >>  interaction_types_mapping.csv
 
 echo "interaction_type_ignored"\
